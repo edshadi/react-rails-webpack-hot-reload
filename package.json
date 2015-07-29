@@ -31,5 +31,8 @@
     "jsx-loader": "^0.13.2",
     "webpack": "^1.10.5",
     "webpack-notifier": "^1.2.1"
+  },
+  "dependencies": {
+    "react": "^0.13.3"
   }
 }
