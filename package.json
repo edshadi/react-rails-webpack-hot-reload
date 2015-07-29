@@ -1,0 +1,28 @@
+{
+  "name": "react-rails-webpack-hot-reload",
+  "version": "1.0.0",
+  "description": "React on Rails with webpack hot reload and es6 demo app",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edshadi/react-rails-webpack-hot-reload.git"
+  },
+  "keywords": [
+    "react",
+    "rails",
+    "webpack",
+    "react-hot",
+    "hot",
+    "reload",
+    "hot-reload",
+    "es6"
+  ],
+  "author": "Ed Shadi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edshadi/react-rails-webpack-hot-reload/issues"
+  },
+  "homepage": "https://github.com/edshadi/react-rails-webpack-hot-reload#readme"
+}
